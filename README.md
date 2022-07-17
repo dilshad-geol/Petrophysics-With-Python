@@ -4,11 +4,9 @@
 Institute of Geology,\
 University of the Punjab, Lahore 54590, Pakistan.
 
-Course: BS(Hons.) Applied Geology\
-Email : dilshad.geologist@gmail.com\
-Phone # +92-308-762-5314
 --------- ----------- ----------- ---------- --------------
-
+## Repo:
+This Repo Contains Notebooks in which I have explored and analyzed different aspects of Petrophysics with Python.
 
 ## **Introduction:**
 The term "petrophysics" was coined by G.E. Archie and J.H.M.A. Thomeer in a quiet bistro in The Hague. By their definition, petrophysics is the study of the physical and chemical properties of rocks and their contained fluids.The Society of Petrophysicists and Well Log Analysts (SPWLA) mission is to increase the awareness of petrophysics,  formation evaluation and well logging best practices in the oil and gas industry.
