@@ -58,7 +58,7 @@ When coupled with fluid type, one can establish a capillary - pressure model tha
 ## **Tools for Petrophysics**
 
 Here is the table of Tools that are appropriate for studying different petrophysical properties.
-![Table of Tools for Petrophysics](../Data/imgs/tools.png "Tools for Petrophysics")
+![Table of Tools for Petrophysics](/Data/imgs/tools.png "Tools for Petrophysics")
 
 ## **Petrophysical property determination**
 Petrophysical analysis can be used for the following:
