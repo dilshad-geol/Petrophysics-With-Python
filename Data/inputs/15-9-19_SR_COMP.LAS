@@ -8,6 +8,7 @@ STEP.M                                             .15240:   Depth Increment
 NULL.                                            -999.250:   Null Value
 FLD .                                                 Q15:   Field Name
 WELL.                                             15/9-19:   NAME
+UWI.											15/9-19  : UNIQUE WELL ID
 WBN .                                          15/9-19 SR:   WELLBORE
 NATI.                                                 NOR:   COUNTRY
 CTRY.                                                 NOR:   COUNTRY

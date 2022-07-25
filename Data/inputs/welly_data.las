@@ -9,7 +9,8 @@ STRT    .M        81.0000                       :First Index Value
 STOP    .M        4879.7006                     :Last Index Value
 STEP    .M        0.1000                        :Frame Spacing
 NULL    .         -999.2500                     :Absent Value
-WELL    .         L05-B-01                      :Well Name   
+WELL    .         L05-B-01                      :Well Name
+UWI		.         L05-B-01                      : UNIQUE WELL ID   
 FLD     .         L5                            :Field Name  
 CNTY    .         GLOMAR ADRIATIC XI            :County
 STAT    .         NETHERLANDS                   :State
